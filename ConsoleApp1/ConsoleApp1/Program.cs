@@ -12,7 +12,6 @@ namespace ConsoleApp1
         {
             Console.WriteLine("Hello GitHub.");
             Console.ReadKey();
-            Console.WriteLine();
         }
     }
 }
